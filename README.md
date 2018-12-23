@@ -1,11 +1,11 @@
 Simple introduction map and reduce with python
 --
 
-Info
+Information
 --
 This project based on a post from this [http://ksat.me/map-reduce-a-really-simple-introduction-kloudo/]
 
-How to
+How to do
 --
 To run the mapper, grouper and reducer execute the 
 ```sh
